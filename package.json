@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@zeke/package-postinstall-test": "^1.0.12"
+  },
+  "scripts": {
+    "postinstall-package-postinstall-test": "echo hello from the parent package script"
+  }
+}
